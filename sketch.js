@@ -18,7 +18,7 @@ let colorObjects = [];
 // Define clickable links with their positions and text
 const links = [
   { 
-    text: 'ASCII Camera', 
+    text: 'ASCII CAMERA', 
     url: 'ASCIIcamera.html',
     x: 0, 
     y: 0,
@@ -26,7 +26,7 @@ const links = [
     rows: 0
   },
   { 
-    text: 'Noise Blocks', 
+    text: 'NOISE BLOCKS', 
     url: 'noiseblocks.html',
     x: 0, 
     y: 0,
