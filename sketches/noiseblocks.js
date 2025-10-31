@@ -11,7 +11,7 @@ function setup() {
 }
 
 function draw() {
-  background(20);
+  background(0,20);
   
   for (let x = 0; x < cols; x++) {
     for (let y = 0; y < rows; y++) {
